@@ -1,0 +1,22 @@
+
+.containerGoku{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.containerInt{
+    background-color: #E69597;
+    border-radius: 5px;
+    padding: 20px;
+    
+    
+}
+
+.containerInt input{
+    width: 250px;
+    height: 20px;
+    display: block;
+    margin-bottom: 5px;
+}
